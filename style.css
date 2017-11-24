@@ -1,18 +1,38 @@
-body {
-    background: lightblue;
-    text-align: center;
+body {text-align:center;  
+    margin:0,30,30,30;
+    padding:10px 70px 10px 70px;
+    
+
+    
 }
 
-p {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+
+.header {background:black;
+    color:white;
+    border:10px solid lightgray;
+
 }
 
-img {width:300px;
+
+p {background:tomato;
+    padding:30px 10px 30px 10px;
+    border: 20px solid lightgray;
+    margin:0;
+  
 }
 
-.color-1 {background:yellow;
+.class1 {color: blue; 
+        margin-bottom:-20px;
+    
+
+} 
+
+.class2 {color: green;
+        margin-bottom:-20px;
+    
 }
 
-.color-2 {background:rgb(124, 124, 97);
+.class3 {color: yellow;
+    margin-bottom:50px;
+    
 }
-
-span {}
