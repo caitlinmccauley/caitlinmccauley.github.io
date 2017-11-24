@@ -1,3 +1,18 @@
 body {
-    background: red;
+    background: lightblue;
+    text-align: center;
 }
+
+p {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+img {width:300px;
+}
+
+.color-1 {background:yellow;
+}
+
+.color-2 {background:rgb(124, 124, 97);
+}
+
+span {}

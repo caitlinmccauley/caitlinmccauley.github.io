@@ -1,0 +1,35 @@
+body {background:linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4)); ; 
+}
+
+img{width:300px;
+border-style:solid;
+border-width:3px}
+
+
+h1 {font-family: Courier New, Courier, monospace; 
+    font-size:22px;
+}
+
+
+h2{font-family:Courier New, Courier, monospace;
+    font-style:italic;
+    color:olive;
+    font-size:16px;
+}
+
+h3{font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color:steelblue;
+    font-size: 18px;
+}
+
+p{font-family: Arial, Helvetica, sans-serif; 
+}
+
+ul{font-family:Arial, Helvetica, sans-serif;}
+
+ol{font-family: Arial, Helvetica, sans-serif}
+
+a:link {text-decoration:none;
+    color:black;
+    font-weight:bold;
+}
