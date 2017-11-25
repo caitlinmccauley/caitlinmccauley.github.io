@@ -1,0 +1,16 @@
+
+
+header {background: url("header_bg.jpg")}
+
+h1 {font-family: 'Open Sans', sans-serif;
+    font-size:24px;
+    font-weight:bold;
+}
+
+h2 {font-family: 'Open Sans', sans-serif;
+    font-size:24px;
+    text-align:center;
+ }
+
+ .button1 {background:yellow;
+width:100px;}
