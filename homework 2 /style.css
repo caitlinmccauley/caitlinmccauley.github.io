@@ -1,0 +1,38 @@
+body {text-align:center;  
+    margin:0,30,30,30;
+    padding:10px 70px 10px 70px;
+    
+
+    
+} 
+
+
+.header {background:black;
+    color:white;
+    border:10px solid lightgray;
+
+}
+
+
+p {background:tomato;
+    padding:30px 10px 30px 10px;
+    border: 20px solid lightgray;
+    margin:0;
+  
+}
+
+.class1 {color: blue; 
+        margin-bottom:-20px;
+    
+
+} 
+
+.class2 {color: green;
+        margin-bottom:-20px;
+    
+}
+
+.class3 {color: yellow;
+    margin-bottom:50px;
+    
+}
