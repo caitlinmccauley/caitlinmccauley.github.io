@@ -1,0 +1,58 @@
+body {text-align:left;
+    width:720px;
+    padding: 54px;
+    border: solid left 6px black;
+    font-family:'Lato', sans-serif;
+
+
+}
+
+
+header {margin-bottom:40px;
+        line-height:.5;
+        font-size:24px;
+
+}
+
+    h1{color:#DD0000;
+        font-weight:100;
+        }
+
+    h2 {font-size:30px;
+        font-weight: 100;}
+
+a {color:lightgrey;
+    font-size:20px;
+    font-weight:100;
+}
+
+img {display:inline-block;
+}
+
+article {margin-bottom:50px;
+       
+}
+
+.date {font-size: 26px;
+    font-weight:100;
+    color: lightgrey;
+    margin-bottom:-25px;
+}
+
+ h4 {font-weight:100;
+    font-size: 26px;
+}
+
+span {text-align:right;
+        color: red;
+}
+
+/* Brad wanted me to do this
+
+article > h2{color:black;
+            }
+*/ 
+
+
+
+    
