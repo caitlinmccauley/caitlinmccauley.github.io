@@ -1,36 +1,35 @@
 body {text-align:left;
     width:720px;
-    padding: 54px;
-    border: solid left 6px black;
+    padding: 50px;
+    /*border: solid left 6px black; */
     font-family:'Lato', sans-serif;
-
-
+    display: flex;
+    flex-direction: column;
 }
-
 
 header {margin-bottom:40px;
-        line-height:.5;
-        font-size:24px;
-
+    line-height:.5;
+    font-size:24px;
 }
 
-    h1{color:#DD0000;
-        font-weight:100;
+h1{color:#DD0000;
+    font-weight:100;
         }
 
-    h2 {font-size:30px;
-        font-weight: 100;}
+h2 {font-size:30px;
+    font-weight: 100;}
 
-a {color:lightgrey;
+a{color:lightgrey;
     font-size:20px;
     font-weight:100;
 }
 
 img {display:inline-block;
+    margin-bottom: 20px;
+    width:100%;
 }
 
-article {margin-bottom:50px;
-       
+article {margin-bottom:50px;  
 }
 
 .date {font-size: 26px;
@@ -43,16 +42,25 @@ article {margin-bottom:50px;
     font-size: 26px;
 }
 
-span {text-align:right;
+div {text-align:right;
         color: red;
 }
 
-/* Brad wanted me to do this
+hr {width:100%;
+}
 
-article > h2{color:black;
-            }
-*/ 
+footer {color:lightgrey;   
+        margin-top:30px;
+}
 
 
 
+li {display:inline-block;
+    color:red;
+    padding:5px;
+   
+
+}
     
+span{color:lightgrey;
+}
