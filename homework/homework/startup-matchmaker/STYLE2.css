@@ -1,0 +1,133 @@
+/* 
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Oswald', sans-serif;
+*/ 
+
+body { width:90%;
+    margin:0px 20px auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    background:lightgray;
+
+}
+
+
+
+
+
+.wrapper1{ 
+background: black;
+color: white;
+border-bottom: 4px solid yellow;
+display: flex;
+justify-content:space-between;
+align-items:baseline;
+}
+
+
+h1 {
+    font-family: 'Merriweather', serif;
+    font-size:30px;
+    padding:0px 20px;
+    color:yellow;}
+
+nav a {display: inline-block;
+    margin:20px;
+    text-decoration:none;
+    color:white;
+    font-family: 'Source Sans Pro', sans-serif;
+    }
+
+.tagline {
+    border:1px solid;
+    margin-top:-5px;
+    padding: 30px;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    background:#C6C6C6;
+}
+  
+#taste {text-decoration:line-through;
+        color:gray;
+}
+
+.are {text-decoration: underline rgb(251, 255, 0);}
+
+.background {
+    border: 1px solid;
+    margin-top:-20px;
+    height:350px;
+    background-image: url('img/coworking.jpg'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+} 
+
+.wrapper2 {border:solid black 1px;
+        margin: 20px;
+        width: 35%;
+        height: 80%;
+        float:right;
+        background-color:rgba(245, 237, 237, 0.836);
+        box-shadow: 0px 0px 40px black; 
+}
+
+#topButton {background:yellow;
+            font-size:15px;
+            box-shadow: 0px 0px 10px gray;; 
+            padding:5px;
+}
+
+.wrapper3 {display: flex;
+flex-direction:row;
+wrap:nowrap;
+
+}
+
+
+.meet { margin:20px;
+        display: flex;
+        flex-direction:column;
+        justify-content: space-around;
+        font-size:17px;
+        
+}
+
+
+.blurb {border: 1px solid;
+        width: 40%; /*Not sure why my width is 40% and not 30% since I made my body width 30%*/  
+        background:white;
+        line-height:1.5;
+        
+}
+
+h4 {margin:20px;
+    font-size:20px;
+    font-family: 'Merriweather', serif;
+}
+
+.blurbPara {margin: 20px;
+            font-size:18px;
+
+}
+
+button {background:lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:15px;
+    box-shadow: 0px 0px 10px gray; 
+    padding:5px;}
+
+
+    #secondbutton {display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+#footer {background:black;
+        color:white;
+        padding:15px 30px;
+    }
+
